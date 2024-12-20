@@ -94,7 +94,7 @@ if st.button("Show Details"):
                     xaxis=dict(
                         range=[0, 10],
                         tickvals=list(range(11)),
-                        ticktext=["4", "5", "6", "7", "8", "9", "10"]
+                        ticktext=["0","1","2","3", "4", "5", "6", "7", "8", "9", "10"]
                     ),
                     yaxis=dict(showticklabels=False),
                     height=150,  
